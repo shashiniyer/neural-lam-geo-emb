@@ -11,6 +11,8 @@ test_*.sh
 .vscode
 *slurm*
 .DS_Store
+apptainer_recipe.def
+the_container
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
