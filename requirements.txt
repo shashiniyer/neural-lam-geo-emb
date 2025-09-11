@@ -13,3 +13,7 @@ matplotlib>=3.7.0
 plotly>=5.15.0
 torch>=2.3.0
 torch-geometric==2.3.1
+huggingface_hub
+
+# git subtree add --prefix locationencoder https://github.com/MarcCoru/locationencoder.git main --squash
+# 
