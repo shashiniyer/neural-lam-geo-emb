@@ -15,5 +15,4 @@ torch>=2.3.0
 torch-geometric==2.3.1
 huggingface_hub
 
-# git subtree add --prefix locationencoder https://github.com/MarcCoru/locationencoder.git main --squash
-# 
+# git clone https://github.com/MarcCoru/locationencoder.git; retain only the locationencoder folder
